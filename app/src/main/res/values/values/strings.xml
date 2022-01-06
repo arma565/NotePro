@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Notepad</string>
+
+    <string name="Cancel">Cancel</string>
+    <string name="start_game">Start Game</string>
+    <string name="login">Login</string>
+    <string name="enter_a_password">Enter a password</string>
+    <string name="enter_a_username">Enter a username</string>
+    <string name="resume_game">Resume Game</string>
+
+    <string name="long_text">hello \n welcome</string>
+    <string name="android">Android class</string>
+    <string name="about">About</string>
+    <string name="contact">Contact</string>
+    <string name="exit">Exit</string>
+    <string name="setting">Setting</string>
+    <string name="search">Search</string>
+    <string name="website">Website</string>
+    <string name="add_note">Add New Note</string>
+    <string name="show">Show All Notes</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="exit_message">Are you sure to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="rate">Rate App</string>
+    <string name="rate_app">Rate 5 to App</string>
+    <string name="enter_you_title">Enter you title</string>
+    <string name="enter_description">Enter your description</string>
+    <string name="title">Title:</string>
+    <string name="description">Description</string>
+
+
+    <string name="persian">Persian</string>
+    <string name="english">English</string>
+    <string name="select_your_language">Select your language :</string>
+    <string name="save_data">Save Data</string>
+    <string name="edit_note">Edit Note</string>
+    <string-array name="language">
+
+        <item>@string/persian</item>
+        <item>@string/english</item>
+
+
+
+    </string-array>
+
+
+</resources>

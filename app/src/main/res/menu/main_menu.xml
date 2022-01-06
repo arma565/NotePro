@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/add_note"
+        android:id="@+id/item_addNewNote"/>
+
+    <item
+        android:id="@+id/item_about"
+        android:title="@string/about" />
+
+
+    <item
+        android:id="@+id/item_contact"
+        android:title="@string/contact" />
+
+    <item
+        android:id="@+id/item_setting"
+        android:title="@string/setting" />
+
+    <item
+        android:id="@+id/item_exit"
+        android:title="@string/exit" />
+
+
+    <item
+        android:id="@+id/item_search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="@string/search"
+        app:showAsAction="ifRoom"
+        />
+
+
+</menu>

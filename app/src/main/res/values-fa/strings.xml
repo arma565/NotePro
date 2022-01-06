@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Notepad Pro</string>
+    <string name="Cancel">انصراف</string>
+    <string name="start_game">Start Game</string>
+    <string name="login">ورود</string>
+    <string name="enter_a_password">رمز عبور را وارد کنید</string>
+    <string name="enter_a_username">نام کاربری را وارد کنید</string>
+    <string name="resume_game">Resume Game</string>
+    <string name="long_text">hello \n welcome</string>
+    <string name="android">Android class</string>
+    <string name="about">درباره ی ما</string>
+    <string name="contact">تماس با ما</string>
+    <string name="exit">خروج</string>
+    <string name="setting">تنظیمات</string>
+    <string name="search">جست و جو</string>
+    <string name="website">وب سایت</string>
+    <string name="add_note">افزودن یادداشت</string>
+    <string name="show">نمایش همه ی یادداشت ها</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="exit_message">آیا برای خروج اطمینان دارید؟</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="rate">امتیاز به برنامه</string>
+    <string name="rate_app">امتیاز 5 به برنامه</string>
+    <string name="enter_you_title">عنوان را وارد نمایید</string>
+    <string name="enter_description">توضیحات را وارد نمایید</string>
+    <string name="title">عنوان:</string>
+    <string name="description">توضیحات</string>
+    <string name="persian">فارسی</string>
+    <string name="english">انگلیسی</string>
+    <string name="select_your_language">زبان را انتخاب کنید :</string>
+    <string name="save_data">ذخیره سازی اطلاعات</string>
+    <string name="telegram">تلگرام</string>
+    <string name="instagram">اینستاگرم</string>
+    <string name="myName">رضا گرجی</string>
+    <string name="myPhoneNumber">09375651522</string>
+    <string name="date">تاریخ</string>
+    <string name="time">ساعت</string>
+    <string name="note_pro">دفترچه یادداشت حرفه ای</string>
+    <string name="version">ورژن:</string>
+    <string name="about_app">درباره ی نرم افزار</string>
+    <string name="contact_me">تماس با من</string>
+    <string name="address_iran_kohgiloye_va_boyr_ahmad_provence_gachsaran_city">ادرس: ایران، استان کهگیلویه وبویر احمد، شهرستان گچساران</string>
+    <string name="developer_name_reza">نام توسعه دهنده: رضا</string>
+    <string name="developer_family_name_gorji">نام فامیلی توسعه دهنده: گرجی</string>
+    <string name="todo">تودو</string>
+    <string name="delete_all_notes">حذف همه ی یادداشت ها</string>
+    <string name="no_data_found">هیچ داده ای یافت نشد</string>
+    <string name="editNote">ویرایش یادداشت</string>
+    <string name="you_can_add_note">شما میتوانید اینجا یک یادداشت اضافه کنید</string>
+    <string name="edit_note_here">شما میتوانید اینجا یادداشت را ویرایش کنید</string>
+    <string-array name="language">
+        <item>@string/persian</item>
+        <item>@string/english</item>
+    </string-array>
+
+</resources>
